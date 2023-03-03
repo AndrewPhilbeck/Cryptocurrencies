@@ -1,4 +1,4 @@
-# Amazon Vine Review
+# Cryptocurrency 
 
 Analyzing crypto currency opportunities for Accountability Accounting
 
